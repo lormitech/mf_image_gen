@@ -2,7 +2,8 @@
 
 #
 # file name: convert_img_ascii-tif.py
-# last modified: 03.04.13
+# last modified: 27.09.15
+# author: Lorenzo Milazzo
 #
 
 

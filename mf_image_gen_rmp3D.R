@@ -1,7 +1,8 @@
 
 #
 # vers. 1.0.0
-# last modified: 07.04.13
+# last modified: 27.09.15
+# author: Lorenzo Milazzo
 #
 
 
