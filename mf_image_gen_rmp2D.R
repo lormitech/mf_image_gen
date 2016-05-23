@@ -1,7 +1,7 @@
 
 #
 # vers. 1.0.0
-# last modified: 27.09.15
+# last modified: 23.05.16
 # author: Lorenzo Milazzo
 #
 
@@ -17,11 +17,11 @@
 # -- References --
 #
 # P. Meakin, "Random walks on multifractal lattices",
-# J. Phys. A: Math. Gen. 20 (1987) L771-L777
+# J. Phys. A: Math. Gen. 20, L771-L777 (1987)
 #
-# L. Milazzo, "Multifractal analysis of three-dimensional grayscale
-# images: Estimation of generalized fractal dimension and singularity
-# spectrum", (to be submitted)
+# L. Milazzo, "Multifractal analysis of three-dimensional grayscale images:
+# Estimation of generalized fractal dimension and singularity spectrum",
+# arXiv:1310.2719 [cond-mat.stat-mech] (2013)
 #
 
 
