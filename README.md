@@ -13,4 +13,4 @@
 
 P. Meakin, "Random walks on multifractal lattices", J. Phys. A: Math. Gen. 20, L771-L777 (1987)
 
-L. Milazzo, Multifractal analysis of three-dimensional grayscale images: Estimation of generalized fractal dimension and singularity spectrum, arXiv:1310.2719 \[cond-mat.stat-mech\] (2013)
+L. Milazzo, "Multifractal analysis of three-dimensional grayscale images: Estimation of generalized fractal dimension and singularity spectrum", arXiv:1310.2719 \[cond-mat.stat-mech\] (2013)
